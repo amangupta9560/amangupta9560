@@ -7,7 +7,7 @@
 </p>
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00B8D4&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+AI+Explorer;Building+MATRU+CARE+AI+Platforms;Open+Source+Contributor+%7C+Always+Learning;Passionate+About+Solving+Real+World+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00B8D4&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+AI+Explorer;Building+Own+Startup+For+Rural;Open+Source+Contributor+%7C+Always+Learning;Passionate+About+Solving+Real+World+Problems" />
 </p>
 
 <p>
