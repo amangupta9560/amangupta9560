@@ -11,8 +11,8 @@
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=amangupta9454&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/amangupta9454?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=amangupta9560&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/amangupta9560?style=for-the-badge" />
 </p>
 
 </section>
@@ -152,7 +152,7 @@
 <td>💼 Developer Portfolio</td>
 <td>Interactive 3D animated portfolio</td>
 <td>React • Three.js • GSAP</td>
-<td><a href="http://gupta-aman-portfolio.netlify.app/">Live</a></td>
+<td><a href="https://amangupta9.netlify.app/">Live</a></td>
 </tr>
 
 <tr>
@@ -364,16 +364,16 @@ These insights represent my coding consistency, repository contributions, and pr
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=amangupta9454&show_icons=true&theme=transparent" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta9454&theme=transparent" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=amangupta9560&show_icons=true&theme=transparent" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta9560&theme=transparent" width="48%">
 </p>
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta9454&theme=transparent" width="96%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta9560&theme=transparent" width="96%">
 </p>
 
 <p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta9454&theme=github-compact" width="96%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta9560&theme=github-compact" width="96%">
 </p>
 
 </section>
@@ -391,10 +391,10 @@ These insights represent my coding consistency, repository contributions, and pr
 <th>Milestone</th>
 </tr>
 
-<tr>
+<!-- <tr>
 <td>2026</td>
 <td>Launched Matru Care AI Platform with AI-driven healthcare guidance.</td>
-</tr>
+</tr> -->
 <tr>
 <td>2025</td>
 <td>Launched AI Career Coach Platform with AI-driven career guidance and College Technical Fest Registration Website.</td>
@@ -434,12 +434,8 @@ These insights represent my coding consistency, repository contributions, and pr
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="http://gupta-aman-portfolio.netlify.app/">
+<a href="https://amangupta9.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge">
-</a>
-
-<a href="https://twitter.com/ag0567688">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 </p>
 
@@ -462,7 +458,7 @@ These insights represent my coding consistency, repository contributions, and pr
 <h2>🏆 GitHub Trophy Wall</h2>
 
 <p>
-<img src="https://github-profile-trophy.vercel.app/?username=amangupta9454&theme=flat&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=amangupta9560&theme=flat&row=1&column=6" />
 </p>
 
 </section>
@@ -474,7 +470,7 @@ These insights represent my coding consistency, repository contributions, and pr
 <h2>📊 Most Used Languages</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta9454&layout=compact&theme=transparent&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta9560&layout=compact&theme=transparent&langs_count=8" />
 </p>
 
 </section>
@@ -628,7 +624,7 @@ These insights represent my coding consistency, repository contributions, and pr
 <h2>🐍 Contribution Activity</h2>
 
 <p>
-<img src="https://raw.githubusercontent.com/amangupta9454/amangupta9454/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/amangupta9560/output/github-contribution-grid-snake.svg" />
 </p>
 
 </section>
