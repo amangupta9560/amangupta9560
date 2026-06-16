@@ -1,84 +1,228 @@
-<section align="center">
 
-<h1>👋 Hi there, I'm <span style="color:#00B8D4;">Aman Gupta</span></h1>
 
-<p>
-<b>MERN Stack Developer • AI Enthusiast • Open Source Contributor</b>
+<!-- Animated Header Wave -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=220&section=header&text=Aman%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Builder&descAlignY=58"/>
+
+<div align="center">
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Building+AI+Solutions" />
 </p>
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00B8D4&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+AI+Explorer;Building+Own+Startup+For+Rural;Open+Source+Contributor+%7C+Always+Learning;Passionate+About+Solving+Real+World+Problems" />
-</p>
+</div>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=amangupta9560&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/amangupta9560?style=for-the-badge" />
-</p>
+<br>
 
-</section>
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+## 🚀 About Me
+
+✨ Building **AI-powered full-stack applications**
+
+🏥 Developing **AI PLATFORM**, an intelligent maternal healthcare ecosystem
+
+🤖 Exploring **Machine Learning**, **LLMs**, **Generative AI**, and **Data Science**
+
+🌱 Learning something new every day
+
+🤝 Open to impactful collaborations and open-source projects
+
+📬 **Email:** ag0567688@gmail.com
+
+⚡ **Mission:** Build technology that improves lives.
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-00D9FF?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Always%20Learning-22C55E?style=for-the-badge"/>
+
+</td>
+
+<td width="45%" align="center">
+
+<img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta9560&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- <div align="center">
+
+### ⚡ Current Status
+
+<img src="https://github-readme-stats.vercel.app/api?username=amangupta9560&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta9560&theme=tokyonight&hide_border=true"/>
+
+</div> -->
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Universe
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgres,python,fastapi,tensorflow,pytorch,git,github,linux,vscode"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 Developer Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta9560&theme=tokyo-night"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎮 Coding Mode
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amangupta9560&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amangupta9560&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=amangupta9560&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/amangupta9560?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/amangupta9560?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=120&section=footer"/>
+
 
 <hr>
 
-<section>
 
-<h2>🚀 About Me</h2>
-
-<p>
-💡 I build <b>AI-powered full-stack applications</b> that solve real-world problems.<br>
-🔭 Currently developing <b>MATRUCARE AI</b>, an intelligent maternal healthcare platform.<br>
-🌱 Exploring <b>Machine Learning, LLMs, and Data Science</b>.<br>
-🤝 Open to collaboration on <b>impactful tech and open-source projects</b>.<br>
-📬 Contact me: <a href="mailto:ag0567688@gmail.com">ag0567688@gmail.com</a>
-</p>
-
-</section>
-
-<hr>
-
-<section>
+<div align="center">
 
 <h2>🏆 Achievements</h2>
 
-<table border="1" cellpadding="10">
+<p>
+Recognitions from technical competitions, hackathons, research presentations, and innovation challenges.
+</p>
 
+</div>
+
+<table>
 <tr>
-<th>🏅</th>
-<th>Achievement</th>
+<td width="50%" valign="top">
+
+<h3>🥇 Scrolls'25</h3>
+
+<b>National Technical Paper Presentation Contest</b>
+
+AKGEC, Ghaziabad
+
+Position: <b>1st Place</b>
+
+Domain: Computer Science & Engineering
+
+Presented and defended a technical research paper at a national-level competition.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🥇 Crossroads 2026</h3>
+
+<b>Technical Project Exhibition</b>
+
+HIET, Ghaziabad
+
+Position: <b>1st Place</b>
+
+Project: <b>Agri FarmIQ</b>
+
+Recognized for innovation and practical impact in smart agriculture.
+
+</td>
 </tr>
 
 <tr>
-<td>🥇</td>
-<td>1st Place – Crossroads 2026 Project Exhibition</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>🥇</td>
-<td>1st Place – Scrolls’25 National Technical Paper Presentation (AKGEC)</td>
-</tr>
+<h3>🥈 Tech Fusion 2025</h3>
 
-<tr>
-<td>🥈</td>
-<td>2nd Position – Tech Fusion 2025 Tech Think Tank (IPEM)</td>
-</tr>
+<b>Tech Think Tank Challenge</b>
 
-<tr>
-<td>🥇</td>
-<td>1st Place – Crossroads 2024 (GAMMBED QUIZ COMPETITION)</td>
-</tr>
+IPEM, Ghaziabad
 
-<tr>
-<td>🚀</td>
-<td>Built 8+ Full Stack Projects</td>
-</tr>
+Position: <b>2nd Place</b>
 
-<tr>
-<td>🌍</td>
-<td>Projects actively used by 50+ users</td>
-</tr>
+Awarded for innovative problem-solving and technical excellence.
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🥉 TechnoHack 3.0</h3>
+
+<b>Innovation Ignite</b>
+
+INMANTEC Institutions
+
+Position: <b>3rd Place</b>
+
+Recognized for creativity and innovation among participating teams.
+
+</td>
+</tr>
 </table>
 
-</section>
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Competition_Wins-4-success?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/First_Place_Finishes-3-gold?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/National_Level-Presentation-blue?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Hackathons-Multiple-orange?style=flat-square"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h3>📜 Certificates & Participation</h3>
+
+Hacknovate 7.0 • Crossroads • TechnoHack 3.0 • Scrolls'25 • Tech Fusion
+
+</div>
 
 <hr>
 
