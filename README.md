@@ -673,271 +673,297 @@ Empowering rural communities through digital agriculture services, government sc
 </div>
 <hr>
 
-<div align="center">
+<div align="center" style="width:100%;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Learning%20Roadmap%20%26%20Achievements&fontSize=38&fontColor=ffffff&animation=fadeIn&color=0:00F7FF,50:7F5AF0,100:FF6B6B"/>
+<h1>🧠 Learning Roadmap 2026</h1>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Continuous+Learning+Journey+🚀;Building+Skills+That+Matter;AI+%7C+MERN+%7C+System+Design+%7C+DSA;Turning+Knowledge+Into+Impact"/>
+<p>
+Building expertise in Artificial Intelligence, Full Stack Development, System Design, and Scalable Software Engineering.
+</p>
 
 </div>
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
+
+<h3>🤖 AI & LLM Engineering</h3>
+
+<img src="https://img.shields.io/badge/Progress-90%25-success?style=for-the-badge"/>
 
 <br><br>
 
-<h2 align="center">🧠 Developer Learning Roadmap</h2>
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/2026_Goal-Product_Engineer-00F7FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Learning_Mode-Active-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Growth-Mindset-purple?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<details open>
-
-<summary><b>🤖 Artificial Intelligence & LLM Engineering</b></summary>
-
-<br>
-
-🟩 Progress: Advanced
-
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
-
-<br>
+<br><br>
 
 ✅ Prompt Engineering
 
+<br>
+
+✅ Generative AI Applications
+
+<br>
+
+✅ AI Product Development
+
+<br>
+
 ✅ LLM Fundamentals
 
-✅ AI Application Development
-
-✅ RAG Concepts
-
-✅ AI Product Architecture
-
-🎯 Mission: Build production-grade AI applications
-
-</details>
-
 <br>
 
-<details open>
+🎯 Building production-ready AI solutions
 
-<summary><b>📊 Machine Learning & Data Science</b></summary>
+</div>
 
-<br>
+</td>
 
-🟨 Progress: Growing
+<td width="50%" valign="top">
 
-🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜ 60%
+<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
 
-<br>
+<h3>📊 Machine Learning</h3>
+
+<img src="https://img.shields.io/badge/Progress-60%25-blue?style=for-the-badge"/>
+
+<br><br>
+
+🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜
+
+<br><br>
 
 📈 Data Preprocessing
 
+<br>
+
 📈 Feature Engineering
+
+<br>
 
 📈 Model Training
 
+<br>
+
 📈 Hyperparameter Tuning
 
-📈 Evaluation Metrics
-
-🎯 Mission: Deploy practical ML solutions
-
-</details>
-
 <br>
 
-<details open>
+🎯 Building intelligent predictive systems
 
-<summary><b>⚙️ System Design & Scalable Architecture</b></summary>
+</div>
 
-<br>
+</td>
 
-🟦 Progress: Expanding
+</tr>
 
-🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 50%
+<tr>
 
-<br>
+<td width="50%" valign="top">
+
+<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
+
+<h3>⚙️ System Design</h3>
+
+<img src="https://img.shields.io/badge/Progress-50%25-purple?style=for-the-badge"/>
+
+<br><br>
+
+🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜
+
+<br><br>
 
 🏗 API Design
 
-🏗 Caching
+<br>
 
 🏗 Database Scaling
 
+<br>
+
+🏗 Caching
+
+<br>
+
 🏗 Load Balancing
 
-🏗 Architecture Patterns
-
-🎯 Mission: Design systems that scale to millions
-
-</details>
-
 <br>
 
-<details open>
+🎯 Building applications that scale
 
-<summary><b>📚 Data Structures & Algorithms</b></summary>
+</div>
 
-<br>
+</td>
 
-🟧 Progress: Daily Practice
+<td width="50%" valign="top">
 
-🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ 65%
+<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
 
-<br>
+<h3>📚 DSA Journey</h3>
+
+<img src="https://img.shields.io/badge/Progress-65%25-orange?style=for-the-badge"/>
+
+<br><br>
+
+🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜
+
+<br><br>
 
 ✅ Arrays
 
+<br>
+
 ✅ Strings
 
-✅ Functions
+<br>
 
 🔄 Linked Lists
 
+<br>
+
 🔄 Trees
 
-🔄 Graphs
-
-🎯 Mission: Strong problem-solving foundation
-
-</details>
-
 <br>
 
-<details open>
+🎯 Strong problem-solving skills
 
-<summary><b>🚀 Future Missions</b></summary>
+</div>
 
-<br>
+</td>
 
-🌟 Launch AI SaaS Platform
+</tr>
 
-🌟 Open Source Contributions
-
-🌟 Technical Writing
-
-🌟 Conference Speaking
-
-🌟 Startup Building
-
-🌟 Cloud & DevOps Mastery
-
-</details>
+</table>
 
 <br><br>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amangupta9560&theme=github_dark"/>
+<h2>🎯 2026 Missions</h2>
+
+<img src="https://img.shields.io/badge/🚀_AI_SaaS-Launch-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🌍_Open_Source-Contribute-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🎤_Technical_Speaker-Goal-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/☁️_Cloud_Architecture-Learning-orange?style=for-the-badge"/>
 
 </div>
 
-<br><br>
+<br><br><br>
 
-<h2 align="center">🏆 Professional Achievements & Certifications</h2>
+<div align="center">
+
+<h1>🏆 Professional Achievements & Certifications</h1>
+
+<p>
+Recognitions, certifications, competitions, and professional growth milestones.
+</p>
+
+</div>
+
+<table width="100%">
+
+<tr>
+
+<td align="center" width="25%">
+
+<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
+
+<h1>🥇</h1>
+
+<h3>Crossroads 2026</h3>
+
+Project Exhibition Winner
+
+</div>
+
+</td>
+
+<td align="center" width="25%">
+
+<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
+
+<h1>📜</h1>
+
+<h3>Research Paper</h3>
+
+National Technical Competition Winner
+
+</div>
+
+</td>
+
+<td align="center" width="25%">
+
+<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
+
+<h1>🥈</h1>
+
+<h3>Tech Fusion</h3>
+
+Ideathon Runner Up
+
+</div>
+
+</td>
+
+<td align="center" width="25%">
+
+<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
+
+<h1>🏁</h1>
+
+<h3>Hackathon</h3>
+
+Innovation Finalist
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆_Achievements-Unlocked-FFD700?style=for-the-badge"/>
+<h2>📜 Certification Vault</h2>
 
-<img src="https://img.shields.io/badge/📜_Certificates-Earned-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️_Cloud_Computing-Certified-4285F4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🚀_Projects-Deployed-blue?style=for-the-badge"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/🌐_Web_Development-Certified-success?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-Certified-purple?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📊_Data_Analytics-Certified-orange?style=for-the-badge"/>
 
 </div>
 
-<br>
+<br><br>
 
-<details open>
+<div align="center">
 
-<summary><b>🥇 Competition Achievements</b></summary>
+<h2>💡 Developer Philosophy</h2>
 
-<br>
+<i>
+"Learn relentlessly. Build consistently. Create impact through technology."
+</i>
 
-🏆 1st Place — Crossroads 2026 Project Exhibition
-
-🏆 1st Place — National Technical Paper Presentation
-
-🏆 2nd Place — Tech Fusion Ideathon
-
-🏆 Finalist — Hackathon Competition
-
-🏆 Multiple Academic & Technical Recognitions
-
-</details>
-
-<br>
-
-<details open>
-
-<summary><b>💼 Professional Experience & Growth</b></summary>
-
-<br>
-
-🚀 MERN Stack Development
-
-🚀 AI Product Development
-
-🚀 Full Stack Web Applications
-
-🚀 Startup-Oriented Solutions
-
-🚀 Real-World Problem Solving
-
-</details>
-
-<br>
-
-<details open>
-
-<summary><b>📜 Certifications</b></summary>
-
-<br>
-
-☁️ Cloud Computing
-
-🌐 Full Stack Web Development
-
-🤖 Artificial Intelligence
-
-📊 Data Analytics
-
-⚙️ Software Engineering Fundamentals
-
-🎯 Continuous Upskilling Through Industry Learning
-
-</details>
-
-<br>
-
-<details open>
-
-<summary><b>🌍 Community & Leadership</b></summary>
-
-<br>
-
-💡 Team Leadership Experience
-
-💡 Innovation & Entrepreneurship Activities
-
-💡 Technical Event Participation
-
-💡 Open Source Learning Journey
-
-💡 Knowledge Sharing & Mentorship
-
-</details>
+</div>
 
 <br><br>
 
