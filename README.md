@@ -272,231 +272,688 @@ Hacknovate 7.0 • Crossroads • TechnoHack 3.0 • Scrolls'25 • Tech Fusion
 
 <hr>
 
-<section>
+<div align="center">
 
-<h2>🌟 Featured Projects</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Featured+Projects;💡+Building+Real+World+Solutions;🌍+MERN+Stack+%7C+AI+%7C+AgriTech+%7C+EdTech" />
 
-<table border="1" cellpadding="10">
+<br><br>
 
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Stack</th>
-<th>Demo</th>
-</tr>
+<table>
 
 <tr>
-<td>🧠 AI Career Coach</td>
-<td>AI-powered career roadmap generator</td>
-<td>React • Node • Gemini</td>
-<td><a href="https://mindstep.netlify.app/">Live</a></td>
-</tr>
 
-<tr>
-<td>💼 Developer Portfolio</td>
-<td>Interactive 3D animated portfolio</td>
-<td>React • Three.js • GSAP</td>
-<td><a href="https://amangupta9.netlify.app/">Live</a></td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>🌾 AgriFarmio</td>
-<td>Smart agriculture platform</td>
-<td>MERN • Gemini API</td>
-<td><a href="https://agri-farmio.netlify.app/">Live</a></td>
-</tr>
+<a href="https://agri-farmio.netlify.app/">
+<img src="https://res.cloudinary.com/dnmtainqq/image/upload/v1769520757/Screenshot_2026-01-27_190041_pgxwg6.png" width="100%">
+</a>
 
-<tr>
-<td>🎓 Crossroads Tech Fest</td>
-<td>Event platform for college tech fest</td>
-<td>MERN • GSAP</td>
-<td><a href="https://crossroads-hiet.netlify.app/">Live</a></td>
-</tr>
+<h3 align="center">🌾 AGRI Farmio</h3>
 
-<tr>
-<td>💬 TeamUp</td>
-<td>Team collaboration platform</td>
-<td>MERN Stack</td>
-<td><a href="https://hietteam.netlify.app/">Live</a></td>
-</tr>
-
-</table>
-
-</section>
-
-<hr>
-<section>
-
-<h2>✨ Developer Profile Highlights</h2>
-
-<p>
-This profile showcases my journey as a <b>Full-Stack Developer</b> and <b>AI Enthusiast</b>.  
-My work focuses on building scalable platforms, solving real-world problems using modern web technologies, 
-and contributing to open-source innovation.
+<p align="center">
+<b>Smart Farming Marketplace</b>
 </p>
 
-<table border="1" cellpadding="10">
-
-<tr>
-<th>Feature</th>
-<th>Description</th>
-</tr>
-
-<tr>
-<td>📊 Dynamic GitHub Analytics</td>
-<td>Live statistics including commits, repositories, languages, and contribution patterns.</td>
-</tr>
-
-<tr>
-<td>🎯 Structured Learning Roadmap</td>
-<td>Public roadmap that tracks skills development in AI, full-stack engineering, and system design.</td>
-</tr>
-
-<tr>
-<td>🌈 Visual Contribution Streaks</td>
-<td>Animated graphs and streak cards representing consistent coding and contribution habits.</td>
-</tr>
-
-<tr>
-<td>👁 Profile Visitor Counter</td>
-<td>Shows how many developers, recruiters, and collaborators visited the profile.</td>
-</tr>
-
-<tr>
-<td>🧠 Technical Stack Showcase</td>
-<td>Expandable section presenting my frontend, backend, cloud, and developer tools expertise.</td>
-</tr>
-
-<tr>
-<td>🖼 Developer Achievement Timeline</td>
-<td>Highlights key milestones including projects, hackathons, and competitions.</td>
-</tr>
-
-<tr>
-<td>🌐 Social Share Preview</td>
-<td>Optimized preview cards when sharing the profile on LinkedIn, Twitter, or developer communities.</td>
-</tr>
-
-<tr>
-<td>🚀 Live Project Deployment</td>
-<td>Direct links to deployed applications for demonstration and testing.</td>
-</tr>
-
-<tr>
-<td>🎥 Interactive Project Demos</td>
-<td>GIF/video walkthroughs explaining how flagship applications function.</td>
-</tr>
-
-<tr>
-<td>💡 Real-World Problem Solving</td>
-<td>Projects designed to address practical challenges such as career guidance, agriculture platforms, and healthcare.</td>
-</tr>
-
-</table>
-
-</section>
-
-<hr>
-
-<section>
-
-<h2>📚 Learning Roadmap – 2026</h2>
-
-<p>
-My learning roadmap focuses on mastering advanced development technologies, artificial intelligence systems, 
-and scalable software architecture.
+<p align="center">
+Connecting farmers directly with consumers through AI-powered agriculture, weather intelligence, transparent pricing, and secure digital transactions.
 </p>
 
-<table border="1" cellpadding="10">
+<p align="center">
 
-<tr>
-<th>Status</th>
-<th>Focus Area</th>
-<th>Description</th>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI_Assistant-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Weather_Intelligence-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Price_Analytics-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Razorpay-Payments-purple?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://agri-farmio.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://projectsphere-ai.netlify.app/">
+<img src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1781931773/Screenshot_2026-06-20_103240_dhxrxi.png" width="100%">
+</a>
+
+<h3 align="center">📚 ProjectSphere</h3>
+
+<p align="center">
+<b>AI-Powered Academic Management System</b>
+</p>
+
+<p align="center">
+Digitalizing the complete final year project lifecycle through approvals, mentorship, progress tracking, analytics, and collaboration.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Faculty_Dashboard-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/HOD_Workflow-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud_Uploads-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/OTP_Verification-purple?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://projectsphere-ai.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+
+</p>
+
+</td>
+
 </tr>
 
 <tr>
-<td>✅ Completed</td>
-<td>Large Language Models (LLMs)</td>
-<td>Studied the architecture and applications of modern generative AI systems.</td>
+
+<td width="50%" valign="top">
+
+<a href="https://hiet-iic.netlify.app/home">
+<img src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1781931639/Screenshot_2026-06-20_103026_rnvi4u.png" width="100%">
+</a>
+
+<h3 align="center">💡 IIC Platform</h3>
+
+<p align="center">
+<b>Innovation & Incubation Ecosystem</b>
+</p>
+
+<p align="center">
+A centralized platform for startup ideas, mentorship, hackathons, certificates, innovation challenges, and student entrepreneurship.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hackathons-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mentorship-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Certificates-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Innovation-purple?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://hiet-iic.netlify.app/home">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://crossroads-hiet.netlify.app/">
+<img src="https://res.cloudinary.com/dnmtainqq/image/upload/v1769613340/Screenshot_2026-01-28_204216_sxitd1.png" width="100%">
+</a>
+
+<h3 align="center">🎓 Crossroads 2026</h3>
+
+<p align="center">
+<b>Technical Fest Management Portal</b>
+</p>
+
+<p align="center">
+A complete event registration and administration system designed to streamline technical fest operations and participant management.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Event_Management-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Admin_Dashboard-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel_Export-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nodemailer-purple?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://crossroads-hiet.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+
+
+</p>
+
+</td>
+
 </tr>
 
 <tr>
-<td>🔍 In Progress</td>
-<td>Machine Learning & System Design</td>
-<td>Exploring advanced React frameworks, SSR, and scalable application patterns.</td>
-</tr>
 
-<tr>
-<td>📘 In Progress</td>
-<td>Data Structures & Algorithms</td>
-<td>Strengthening problem-solving ability and algorithmic thinking.</td>
-</tr>
+<td colspan="2">
 
-<tr>
-<td>🚀 Planned</td>
-<td>AI SaaS Product</td>
-<td>Building a production-ready SaaS platform integrating AI-powered features.</td>
-</tr>
+<br>
 
-<tr>
-<td>🌍 Planned</td>
-<td>Open Source Contributions</td>
-<td>Contributing to global developer communities and impactful open-source projects.</td>
-</tr>
+<a href="https://aman-traders.netlify.app/">
+<img src="https://res.cloudinary.com/dnmtainqq/image/upload/v1769517146/Screenshot_2026-01-27_175934_wtab5f.png" width="100%">
+</a>
 
-<tr>
-<td>🎤 Planned</td>
-<td>Technical Speaking</td>
-<td>Sharing insights on AI development, frontend engineering, and modern web architecture.</td>
+<h2 align="center">🌐 Krishi Seva Kendra</h2>
+
+<p align="center">
+<b>Smart Rural Service Platform</b>
+</p>
+
+<p align="center">
+Empowering rural communities through digital agriculture services, government schemes, CSC facilities, financial assistance, and educational resources.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Agriculture-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Government_Services-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Financial_Support-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Rural_Development-purple?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://aman-traders.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+
+
+</p>
+
+</td>
+
 </tr>
 
 </table>
 
-</section>
 
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,100:7F5AF0"/>
+
+</div>
+<hr>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Developer%20Profile%20Highlights&fontSize=40&fontAlignY=40&color=0:00F7FF,100:7F5AF0&fontColor=ffffff"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Builder+%26+Problem+Solver;Building+Products+That+Create+Impact;Always+Learning+Always+Shipping+🚀"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🚀_Projects_Built-15+-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏆_Achievements-Multiple-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💻_Tech_Stack-MERN-00BFFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖_AI_Enthusiast-Active-7F5AF0?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<details open>
+<summary><b>🚀 Building Products, Not Just Projects</b></summary>
+
+<br>
+
+🔹 Creating scalable web applications that solve real-world challenges.
+
+🔹 Focused on Agriculture, Healthcare, Education, Innovation, and AI-driven platforms.
+
+🔹 Building systems that combine great UI, strong backend architecture, and practical impact.
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>🌍 Domains I Love Building For</b></summary>
+
+<br>
+
+🌾 AgriTech Solutions
+
+🏥 Healthcare Platforms
+
+🎓 Education Technology
+
+💡 Startup & Innovation Ecosystems
+
+📊 Analytics Dashboards
+
+🤖 AI-Powered Applications
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>⚡ What You'll Discover Here</b></summary>
+
+<br>
+
+📱 Production-Ready Full Stack Applications
+
+🔐 Authentication & Authorization Systems
+
+☁️ Cloud Integrations & Deployments
+
+📊 Data Visualization Dashboards
+
+💳 Payment Gateway Integrations
+
+📧 Automated Notification Systems
+
+🌐 Responsive User Experiences
+
+🤖 AI-Assisted Features & Automation
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>🏆 Notable Highlights</b></summary>
+
+<br>
+
+🥇 Winner — Crossroads 2026 Project Exhibition
+
+🥇 National Technical Paper Presentation Competition
+
+🥈 Tech Fusion Ideathon
+
+🏁 Hackathon Finalist
+
+🚀 Multiple Live Production Deployments
+
+📈 Continuous Open Source Learning Journey
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>🛠️ Current Focus Areas</b></summary>
+
+<br>
+
+🔥 Advanced MERN Stack Development
+
+🤖 Machine Learning & AI Applications
+
+📚 Data Structures & Algorithms
+
+⚙️ System Design Fundamentals
+
+☁️ Scalable Cloud Architectures
+
+🚀 Building Startup-Ready Products
+
+</details>
+
+<br>
+
+<br>
+
+<div align="center">
+
+<h3>💭 Developer Philosophy</h3>
+
+<i>
+"Technology becomes meaningful when it solves real problems, creates opportunities, and improves lives."
+</i>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,100:7F5AF0"/>
+
+</div>
 <hr>
 
-<section>
+<div align="center">
 
-<h2>🏅 Certifications & Professional Achievements</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Learning%20Roadmap%20%26%20Achievements&fontSize=38&fontColor=ffffff&animation=fadeIn&color=0:00F7FF,50:7F5AF0,100:FF6B6B"/>
 
-<table border="1" cellpadding="10">
+<br>
 
-<tr>
-<th>Category</th>
-<th>Achievement</th>
-<th>Details</th>
-</tr>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Continuous+Learning+Journey+🚀;Building+Skills+That+Matter;AI+%7C+MERN+%7C+System+Design+%7C+DSA;Turning+Knowledge+Into+Impact"/>
 
-<tr>
-<td>🌍 Open Source</td>
-<td>GirlScript Summer of Code Contributor</td>
-<td>Contributed to open-source projects and collaborated with global developers.</td>
-</tr>
+</div>
 
-<tr>
-<td>📜 Certifications</td>
-<td>Industry Technology Certifications</td>
-<td>Earned multiple certifications including Cloud Computing and Web Development.</td>
-</tr>
+<br><br>
 
-<tr>
-<td>🥇 Programming Competition</td>
-<td>Winner – CodeRush Weekly #4</td>
-<td>Recognized for competitive programming and algorithmic skills.</td>
-</tr>
+<h2 align="center">🧠 Developer Learning Roadmap</h2>
 
-<tr>
-<td>🏅 Technical Quiz</td>
-<td>Winner – Gambed Technical Quiz Contest</td>
-<td>Demonstrated strong technical and problem-solving knowledge.</td>
-</tr>
+<div align="center">
 
-</table>
+<img src="https://img.shields.io/badge/2026_Goal-Product_Engineer-00F7FF?style=for-the-badge"/>
 
-</section>
+<img src="https://img.shields.io/badge/Learning_Mode-Active-success?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Growth-Mindset-purple?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<details open>
+
+<summary><b>🤖 Artificial Intelligence & LLM Engineering</b></summary>
+
+<br>
+
+🟩 Progress: Advanced
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
+
+<br>
+
+✅ Prompt Engineering
+
+✅ LLM Fundamentals
+
+✅ AI Application Development
+
+✅ RAG Concepts
+
+✅ AI Product Architecture
+
+🎯 Mission: Build production-grade AI applications
+
+</details>
+
+<br>
+
+<details open>
+
+<summary><b>📊 Machine Learning & Data Science</b></summary>
+
+<br>
+
+🟨 Progress: Growing
+
+🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜ 60%
+
+<br>
+
+📈 Data Preprocessing
+
+📈 Feature Engineering
+
+📈 Model Training
+
+📈 Hyperparameter Tuning
+
+📈 Evaluation Metrics
+
+🎯 Mission: Deploy practical ML solutions
+
+</details>
+
+<br>
+
+<details open>
+
+<summary><b>⚙️ System Design & Scalable Architecture</b></summary>
+
+<br>
+
+🟦 Progress: Expanding
+
+🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 50%
+
+<br>
+
+🏗 API Design
+
+🏗 Caching
+
+🏗 Database Scaling
+
+🏗 Load Balancing
+
+🏗 Architecture Patterns
+
+🎯 Mission: Design systems that scale to millions
+
+</details>
+
+<br>
+
+<details open>
+
+<summary><b>📚 Data Structures & Algorithms</b></summary>
+
+<br>
+
+🟧 Progress: Daily Practice
+
+🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ 65%
+
+<br>
+
+✅ Arrays
+
+✅ Strings
+
+✅ Functions
+
+🔄 Linked Lists
+
+🔄 Trees
+
+🔄 Graphs
+
+🎯 Mission: Strong problem-solving foundation
+
+</details>
+
+<br>
+
+<details open>
+
+<summary><b>🚀 Future Missions</b></summary>
+
+<br>
+
+🌟 Launch AI SaaS Platform
+
+🌟 Open Source Contributions
+
+🌟 Technical Writing
+
+🌟 Conference Speaking
+
+🌟 Startup Building
+
+🌟 Cloud & DevOps Mastery
+
+</details>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amangupta9560&theme=github_dark"/>
+
+</div>
+
+<br><br>
+
+<h2 align="center">🏆 Professional Achievements & Certifications</h2>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆_Achievements-Unlocked-FFD700?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📜_Certificates-Earned-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀_Projects-Deployed-blue?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<details open>
+
+<summary><b>🥇 Competition Achievements</b></summary>
+
+<br>
+
+🏆 1st Place — Crossroads 2026 Project Exhibition
+
+🏆 1st Place — National Technical Paper Presentation
+
+🏆 2nd Place — Tech Fusion Ideathon
+
+🏆 Finalist — Hackathon Competition
+
+🏆 Multiple Academic & Technical Recognitions
+
+</details>
+
+<br>
+
+<details open>
+
+<summary><b>💼 Professional Experience & Growth</b></summary>
+
+<br>
+
+🚀 MERN Stack Development
+
+🚀 AI Product Development
+
+🚀 Full Stack Web Applications
+
+🚀 Startup-Oriented Solutions
+
+🚀 Real-World Problem Solving
+
+</details>
+
+<br>
+
+<details open>
+
+<summary><b>📜 Certifications</b></summary>
+
+<br>
+
+☁️ Cloud Computing
+
+🌐 Full Stack Web Development
+
+🤖 Artificial Intelligence
+
+📊 Data Analytics
+
+⚙️ Software Engineering Fundamentals
+
+🎯 Continuous Upskilling Through Industry Learning
+
+</details>
+
+<br>
+
+<details open>
+
+<summary><b>🌍 Community & Leadership</b></summary>
+
+<br>
+
+💡 Team Leadership Experience
+
+💡 Innovation & Entrepreneurship Activities
+
+💡 Technical Event Participation
+
+💡 Open Source Learning Journey
+
+💡 Knowledge Sharing & Mentorship
+
+</details>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Innovate%20%E2%80%A2%20Repeat&fontColor=ffffff&fontSize=30&color=0:00F7FF,100:7F5AF0"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:7F5AF0,100:FF6B6B"/>
 <hr>
 
 <section align="center">
