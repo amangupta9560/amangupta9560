@@ -982,28 +982,26 @@ Innovation Finalist
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:7F5AF0,100:FF6B6B"/>
 <hr>
 
-<section align="center">
+<div align="center">
 
-<h2>📈 GitHub Insights</h2>
+<img
+  width="49%"
+  height="195px"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amangupta9560&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d0d1a"
+  alt="Aman GitHub Stats"
+/>
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta9560&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats" />
 
-<p>
-These insights represent my coding consistency, repository contributions, and project development activity.
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amangupta9560&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=amangupta9560&show_icons=true&theme=transparent" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta9560&theme=transparent" width="48%">
-</p>
-
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta9560&theme=transparent" width="96%">
-</p>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amangupta9560&layout=compact&theme=tokyonight&hide_border=true" />
+&nbsp;&nbsp;
 <p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta9560&theme=github-compact" width="96%">
 </p>
 
-</section>
+</div>
+
 
 <hr>
 
