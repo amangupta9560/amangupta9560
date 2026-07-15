@@ -95,13 +95,9 @@
 ---
 
 <div align="center">
-
 ### 🎮 Coding Mode
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amangupta9560&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amangupta9560&theme=tokyonight"/>
-
+<img src="https://raw.githubusercontent.com/amangupta9560/amangupta9560/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
+<img src="https://raw.githubusercontent.com/amangupta9560/amangupta9560/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
 </div>
 
 ---
