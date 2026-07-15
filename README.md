@@ -1041,71 +1041,12 @@ Innovation Finalist
 
 <hr>
 
-<section>
-
-<h2>📊 Skill Progress</h2>
-
-<table border="1" cellpadding="10">
-
-<tr>
-<th>Technology</th>
-<th>Expertise Level</th>
-</tr>
-
-<tr>
-<td>JavaScript / TypeScript</td>
-<td>
-████████████████████ 90%
-</td>
-</tr>
-
-<tr>
-<td>React / Frontend Development</td>
-<td>
-███████████████████ 85%
-</td>
-</tr>
-
-<tr>
-<td>Node.js / Backend Development</td>
-<td>
-██████████████████ 82%
-</td>
-</tr>
-
-<tr>
-<td>AI Integration & APIs</td>
-<td>
-████████████████ 75%
-</td>
-</tr>
-
-<tr>
-<td>Database Design</td>
-<td>
-███████████████ 70%
-</td>
-</tr>
-
-<tr>
-<td>DevOps / Deployment</td>
-<td>
-█████████████ 65%
-</td>
-</tr>
-
-</table>
-
-</section>
-
-<hr>
-
 <section align="center">
 
 <h2>🐍 Contribution Activity</h2>
 
-<p>
-<img src="https://raw.githubusercontent.com/amangupta9560/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amangupta9560/amangupta9560/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 </section>
