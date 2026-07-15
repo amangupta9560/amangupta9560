@@ -649,174 +649,33 @@ Empowering rural communities through digital agriculture services, government sc
 </div>
 <hr>
 
-<div align="center" style="width:100%;">
+<div align="center">
 
-<h1>🧠 Learning Roadmap 2026</h1>
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Learning+Roadmap+2026;Continuous+Growth+%26+Innovation;Learning+Never+Stops" />
+</h1>
 
 <p>
-Building expertise in Artificial Intelligence, Full Stack Development, System Design, and Scalable Software Engineering.
+Building expertise in <b>Artificial Intelligence</b>, <b>Data Science</b>,
+<b>Deployment & Scalability</b>, <b>Full Stack Development</b>, and
+<b>Problem Solving</b>.
 </p>
 
-</div>
+<br><br>
 
-<table width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
-
-<h3>🤖 AI & LLM Engineering</h3>
-
-<img src="https://img.shields.io/badge/Progress-90%25-success?style=for-the-badge"/>
+<img
+src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1784136616/ChatGPT_Image_Jul_15_2026_11_00_04_PM_warco2.png"
+alt="Learning Roadmap 2026"
+width="100%"
+/>
 
 <br><br>
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=7B61FF&center=true&vCenter=true&width=900&lines=AI+%26+LLM+Engineering;Data+Science;Deployment+%26+Scalability;Full+Stack+Development;DSA+%26+Aptitude;Always+Learning" />
 
 <br><br>
-
-✅ Prompt Engineering
-
-<br>
-
-✅ Generative AI Applications
-
-<br>
-
-✅ AI Product Development
-
-<br>
-
-✅ LLM Fundamentals
-
-<br>
-
-🎯 Building production-ready AI solutions
 
 </div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
-
-<h3>📊 Machine Learning</h3>
-
-<img src="https://img.shields.io/badge/Progress-60%25-blue?style=for-the-badge"/>
-
-<br><br>
-
-🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜
-
-<br><br>
-
-📈 Data Preprocessing
-
-<br>
-
-📈 Feature Engineering
-
-<br>
-
-📈 Model Training
-
-<br>
-
-📈 Hyperparameter Tuning
-
-<br>
-
-🎯 Building intelligent predictive systems
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
-
-<h3>⚙️ System Design</h3>
-
-<img src="https://img.shields.io/badge/Progress-50%25-purple?style=for-the-badge"/>
-
-<br><br>
-
-🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜
-
-<br><br>
-
-🏗 API Design
-
-<br>
-
-🏗 Database Scaling
-
-<br>
-
-🏗 Caching
-
-<br>
-
-🏗 Load Balancing
-
-<br>
-
-🎯 Building applications that scale
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
-
-<h3>📚 DSA Journey</h3>
-
-<img src="https://img.shields.io/badge/Progress-65%25-orange?style=for-the-badge"/>
-
-<br><br>
-
-🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜
-
-<br><br>
-
-✅ Arrays
-
-<br>
-
-✅ Strings
-
-<br>
-
-🔄 Linked Lists
-
-<br>
-
-🔄 Trees
-
-<br>
-
-🎯 Strong problem-solving skills
-
-</div>
-
-</td>
-
-</tr>
-
-</table>
-
-<br><br>
-
 <div align="center">
 
 <h1>🏆 Professional Achievements & Certifications</h1>
