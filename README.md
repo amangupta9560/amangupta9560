@@ -91,35 +91,10 @@
 
 <div align="center">
 
-### 🌌 Developer Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta9560&theme=tokyo-night"/>
-
-</div>
-
----
-
-<div align="center">
 ### 🎮 Coding Mode
 <img src="https://raw.githubusercontent.com/amangupta9560/amangupta9560/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
 <img src="https://raw.githubusercontent.com/amangupta9560/amangupta9560/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
 </div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=amangupta9560&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/amangupta9560?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/amangupta9560?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=120&section=footer"/>
 
 
 <hr>
