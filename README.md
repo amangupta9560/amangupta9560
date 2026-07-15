@@ -981,7 +981,7 @@ Innovation Finalist
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:7F5AF0,100:FF6B6B"/>
 <hr>
-
+<!-- yha ke niche tk ki code shi hai aur kam kr rhi hai, yh streak aur uske niche ka code hai -->
 <div align="center">
 
 <img
@@ -1004,40 +1004,37 @@ Innovation Finalist
 
 
 <hr>
+<!-- Connect With Me -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=🔗+Connect+With+Me" alt="Typing SVG" />
+</h2>
 
-<section>
+<p align="center">
+  <a href="mailto:ag0567688@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<section align="center">
+  <a href="https://www.linkedin.com/in/amangupta9454/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<h2>🔗 Connect With Me</h2>
+  <a href="https://amangupta9.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 
-<p>
-<a href="mailto:ag0567688@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <a href="https://github.com/amangupta9560" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/amangupta9454/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://amangupta9.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge">
-</a>
+  <a href="https://leetcode.com/u/amangupta9454/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
-</section>
-
-<hr>
-
-<section align="center">
-
-<h2>📊 Most Used Languages</h2>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta9560&layout=compact&theme=transparent&langs_count=8" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amangupta9560&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/amangupta9560?label=Followers&style=for-the-badge&logo=github" />
 </p>
-
-</section>
 
 <hr>
 
@@ -1050,7 +1047,5 @@ Innovation Finalist
 </p>
 
 </section>
-
-<hr>
 <p align="center"><b>✨ Thanks for visiting — let's build something awesome together! ✨</b></p>
 <hr>
