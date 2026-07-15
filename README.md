@@ -819,22 +819,6 @@ Building expertise in Artificial Intelligence, Full Stack Development, System De
 
 <div align="center">
 
-<h2>🎯 2026 Missions</h2>
-
-<img src="https://img.shields.io/badge/🚀_AI_SaaS-Launch-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🌍_Open_Source-Contribute-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🎤_Technical_Speaker-Goal-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/☁️_Cloud_Architecture-Learning-orange?style=for-the-badge"/>
-
-</div>
-
-<br><br><br>
-
-<div align="center">
-
 <h1>🏆 Professional Achievements & Certifications</h1>
 
 <p>
@@ -907,55 +891,78 @@ Innovation Finalist
 
 </table>
 
-<br>
-
+<!-- yh certification vault wala section hai -->
 <div align="center">
 
-<h2>📜 Certification Vault</h2>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=00E7FF&center=true&vCenter=true&width=650&lines=Certification+Vault;Continuous+Learning;Always+Upskilling" />
+</h1>
 
-<img src="https://img.shields.io/badge/☁️_Cloud_Computing-Certified-4285F4?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🌐_Web_Development-Certified-success?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-Certified-purple?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/📊_Data_Analytics-Certified-orange?style=for-the-badge"/>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<h2>💡 Developer Philosophy</h2>
-
-<i>
-"Learn relentlessly. Build consistently. Create impact through technology."
-</i>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Innovate%20%E2%80%A2%20Repeat&fontColor=ffffff&fontSize=30&color=0:00F7FF,100:7F5AF0"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:7F5AF0,100:FF6B6B"/>
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### ☁️ Cloud Computing
+
+<img src="https://img.shields.io/badge/Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌐 Web Development
+
+<img src="https://img.shields.io/badge/Certified-2E7D32?style=for-the-badge&logo=html5&logoColor=white"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🤖 Artificial Intelligence
+
+<img src="https://img.shields.io/badge/Certified-7B61FF?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+### 📊 Data Analytics
+
+<img src="https://img.shields.io/badge/Certified-FF9800?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=2&section=header"/>
+
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1500&color=7B61FF&center=true&vCenter=true&width=650&lines=Developer+Philosophy" />
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00E7FF&center=true&vCenter=true&width=800&lines=Learn+Relentlessly;Build+Consistently;Innovate+Fearlessly;Create+Technology+That+Matters;Impact+Over+Impression" />
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B61FF&height=120&section=footer&text=Build%20•%20Learn%20•%20Innovate%20•%20Repeat&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+
+</div>
 <hr>
 <!-- yha ke niche tk ki code shi hai aur kam kr rhi hai, yh streak aur uske niche ka code hai -->
 <div align="center">
