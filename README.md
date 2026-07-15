@@ -1,78 +1,83 @@
-
-
-<!-- Animated Header Wave -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=220&section=header&text=Aman%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Builder&descAlignY=58"/>
+<img width="100%" src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1784131928/Screenshot_2026-07-15_214154_hghzwq.png"/>
 
 <div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Building+AI+Solutions" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hello,+I'm+Aman+Gupta;AI+Engineer;Full+Stack+Developer;Building+AI-Powered+Solutions;Always+Learning+Something+New" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-00D9FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-7B61FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-00C853?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<h3>
+💡 <i>"Turning Ideas into Intelligent Solutions"</i>
+</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=7B61FF&center=true&vCenter=true&width=800&lines=AI+%7C+LLMs+%7C+RAG;Building+Scalable+Web+Applications;Researcher+%7C+Problem+Solver;Open+Source+Enthusiast" />
+
+<br>
 
 </div>
 
 <br>
-
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="78%" valign="top">
 
-## 🚀 About Me
+<h2>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+ About Me
+</h2>
 
-✨ Building **AI-powered full-stack applications**
-
-🏥 Developing **AI PLATFORM**, an intelligent maternal healthcare ecosystem
-
-🤖 Exploring **Machine Learning**, **LLMs**, **Generative AI**, and **Data Science**
-
-🌱 Learning something new every day
-
-🤝 Open to impactful collaborations and open-source projects
-
-📬 **Email:** ag0567688@gmail.com
-
-⚡ **Mission:** Build technology that improves lives.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00D9FF&width=500&lines=AI+Engineer;Full+Stack+Developer;Building+AI+Solutions;Machine+Learning+Explorer;Open+Source+Contributor"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%20Engineer-00D9FF?style=for-the-badge&logo=openai&logoColor=white"/>
+✨ Building <b>AI-powered Full Stack Applications</b>
 
-<img src="https://img.shields.io/badge/Full%20Stack-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+🏥 Developing <b>AI PLATFORM</b>, an intelligent maternal healthcare ecosystem
 
-<img src="https://img.shields.io/badge/Open%20Source-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+🤖 Exploring <b>Machine Learning</b>, <b>LLMs</b>, <b>RAG</b>, <b>Generative AI</b> & <b>Data Science</b>
 
-<img src="https://img.shields.io/badge/Always%20Learning-22C55E?style=for-the-badge"/>
+🌱 Learning something new every single day
+
+🚀 Passionate about solving real-world problems using AI
+
+🤝 Open to collaborations, research & open source
+
+📬 <b>Email:</b> <a href="mailto:ag0567688@gmail.com">ag0567688@gmail.com</a>
+
+🎯 <b>Mission:</b> <i>"Build technology that improves lives."</i>
+
 
 </td>
 
-<td width="45%" align="center">
+<td width="42%" align="center">
 
-<img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta9560&theme=tokyonight"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=7B61FF&center=true&width=350&lines=Building+the+Future+with+AI;Full+Stack+Developer;Always+Learning"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-00E5FF?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MERN%20Stack-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Always%20Learning-22C55E?style=for-the-badge&logo=bookstack&logoColor=white"/>
 
 </td>
 
 </tr>
 </table>
-
----
-
-<!-- <div align="center">
-
-### ⚡ Current Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=amangupta9560&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta9560&theme=tokyonight&hide_border=true"/>
-
-</div> -->
-
----
 
 <div align="center">
 
