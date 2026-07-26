@@ -1,89 +1,217 @@
-<img width="100%" src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1784131928/Screenshot_2026-07-15_214154_hghzwq.png"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hello,+I'm+Aman+Gupta;AI+Engineer;Full+Stack+Developer;Building+AI-Powered+Solutions;Always+Learning+Something+New" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,50:7B61FF,100:00E7FF&height=200&section=header&text=AMAN%20GUPTA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=18"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/AI%20Engineer-00D9FF?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-7B61FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/MERN%20Stack-00C853?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<h3>
-💡 <i>"Turning Ideas into Intelligent Solutions"</i>
-</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=7B61FF&center=true&vCenter=true&width=800&lines=AI+%7C+LLMs+%7C+RAG;Building+Scalable+Web+Applications;Researcher+%7C+Problem+Solver;Open+Source+Enthusiast" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=800&lines=root%40amangupta%3A~%24+whoami;%E2%96%BA+AI+Engineer+%7C+Full+Stack+Developer;%E2%96%BA+Building+AI-Powered+Solutions;%E2%96%BA+MERN+Stack+%7C+LLMs+%7C+RAG+%7C+GenAI;%E2%96%BA+Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" />
 
 </div>
 
-<br>
-<table>
-<tr>
+---
 
-<td width="78%" valign="top">
-
-<h2>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
- About Me
-</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00D9FF&width=500&lines=AI+Engineer;Full+Stack+Developer;Building+AI+Solutions;Machine+Learning+Explorer;Open+Source+Contributor"/>
-
-<br>
-
-✨ Building <b>AI-powered Full Stack Applications</b>
-
-🏥 Developing <b>AI PLATFORM</b>, an intelligent maternal healthcare ecosystem
-
-🤖 Exploring <b>Machine Learning</b>, <b>LLMs</b>, <b>RAG</b>, <b>Generative AI</b> & <b>Data Science</b>
-
-🌱 Learning something new every single day
-
-🚀 Passionate about solving real-world problems using AI
-
-🤝 Open to collaborations, research & open source
-
-📬 <b>Email:</b> <a href="mailto:ag0567688@gmail.com">ag0567688@gmail.com</a>
-
-🎯 <b>Mission:</b> <i>"Build technology that improves lives."</i>
+```text
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│         ░█████╗░███╗░░░███╗░█████╗░███╗░░██╗                                   │
+│         ██╔══██╗████╗░████║██╔══██╗████╗░██║                                   │
+│         ███████║██╔████╔██║███████║██╔██╗██║                                   │
+│         ██╔══██║██║╚██╔╝██║██╔══██║██║╚████║                                   │
+│         ██║  ██║██║░╚═╝░██║██║  ██║██║░╚███║                                   │
+│         ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝                                  │
+│                                                                                 │
+│      ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗                                 │
+│     ██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗                                │
+│     ██║  ███╗██║   ██║██████╔╝   ██║   ███████║                                │
+│     ██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║                                │
+│     ╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║                                │
+│      ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝                               │
+│                                                                                 │
+│  ┌──────────────────────────────────────────────────────────────────────────┐  │
+│  │                    [ SYSTEM BOOT SEQUENCE COMPLETE ]                     │  │
+│  │                     >> INITIALIZING DEVELOPER MODE <<                    │  │
+│  └──────────────────────────────────────────────────────────────────────────┘  │
+└─────────────────────────────────────────────────────────────────────────────────┘
 
 
-</td>
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  root@amangupta:~$ neofetch --developer                                         │
+├────────────────────────┬────────────────────────────────────────────────────────┤
+│                        │                                                        │
+│    ╔═══════════════╗   │  Name .............. Aman Gupta                       │
+│    ║  .--.  .--.   ║   │  Role .............. AI Engineer & Full Stack Dev      │
+│    ║ /    \/    \  ║   │  Stack ............. MERN | AI | LLMs | RAG            │
+│    ║|  AI  |  AI|  ║   │  Education ......... B.Tech CSE (Pursuing)             │
+│    ║ \    /\    /  ║   │  Institute ......... HI-TECH Inst. of Engg & Tech      │
+│    ║  '--'  '--'   ║   │  Location .......... Ghaziabad, India 🇮🇳              │
+│    ║    NEURAL     ║   │                                                        │
+│    ║    NETWORK    ║   │  OS ................ Windows 11 / Linux                │
+│    ║  ACTIVE  🟢   ║   │  Editor ............ VS Code + Cursor                  │
+│    ╚═══════════════╝   │  Terminal .......... Git Bash / PowerShell             │
+│                        │  Kernel ............ Developer v9560                   │
+│    ╔═══════════════╗   │                                                        │
+│    ║  >> STATUS << ║   │  Languages ......... JavaScript, Python, C             │
+│    ║  ▓▓▓▓▓▓▓▓▓░░ ║   │  Frontend .......... React, Next.js, Tailwind, Three.js│
+│    ║  CODING: 88%  ║   │  Backend ........... Node.js, Express.js, FastAPI      │
+│    ║  ▓▓▓▓▓▓▓░░░░ ║   │  Database .......... MongoDB, MySQL                    │
+│    ║  LEARNING: 71%║   │  AI/ML ............. LangChain, RAG, LLMs, TensorFlow  │
+│    ║  ▓▓▓▓▓▓▓▓▓▓▓ ║   │  Cloud ............. Vercel, Netlify, Render           │
+│    ║  BUILDING:100%║   │                                                        │
+│    ╚═══════════════╝   │  Mission ........... "Build Tech That Improves Lives"  │
+│                        │  Uptime ............ 24/7 (Coffee-Powered ☕)          │
+│                        │  Open Source ....... Active Contributor 🌍             │
+│                        │  Status ............ Available for Collab 🤝           │
+└────────────────────────┴────────────────────────────────────────────────────────┘
 
-<td width="42%" align="center">
 
-<img width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  root@amangupta:~$ cat /proc/skills                                             │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│  [LANGUAGES]                                                                    │
+│  JavaScript  ████████████████████░░░  90%  ★★★★★                              │
+│  Python      ███████████████████░░░░  80%  ★★★★☆                              │
+│  C           ████████████████░░░░░░░  70%  ★★★☆☆                              │
+│                                                                                 │
+│  [FRONTEND]                                                                     │
+│  React.js    ████████████████████░░░  92%  ★★★★★                              │
+│  Next.js     ██████████████████░░░░░  78%  ★★★★☆                              │
+│  Tailwind    ████████████████████░░░  90%  ★★★★★                              │
+│  Three.js    ██████████████░░░░░░░░░  65%  ★★★☆☆                              │
+│  Redux       ████████████████░░░░░░░  72%  ★★★★☆                              │
+│                                                                                 │
+│  [BACKEND]                                                                      │
+│  Node.js     ████████████████████░░░  88%  ★★★★★                              │
+│  Express.js  ████████████████████░░░  88%  ★★★★★                              │
+│  FastAPI     ██████████████░░░░░░░░░  62%  ★★★☆☆                              │
+│                                                                                 │
+│  [AI / ML]                                                                      │
+│  LLMs & RAG  ████████████████████░░░  85%  ★★★★★                              │
+│  TensorFlow  ███████████████░░░░░░░░  68%  ★★★☆☆                              │
+│  PyTorch     █████████████░░░░░░░░░░  60%  ★★★☆☆                              │
+│  Generative  ████████████████████░░░  85%  ★★★★★                              │
+│                                                                                 │
+│  [DATABASE]                                                                     │
+│  MongoDB     ████████████████████░░░  88%  ★★★★★                              │
+│  MySQL       ████████████████░░░░░░░  72%  ★★★★☆                              │
+│  PostgreSQL  █████████████░░░░░░░░░░  58%  ★★★☆☆                              │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 
-<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=7B61FF&center=true&width=350&lines=Building+the+Future+with+AI;Full+Stack+Developer;Always+Learning"/>
-<br><br>
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  root@amangupta:~$ ls -la ~/projects/                                           │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│  drwxr-xr-x  AGRI_FarmIQ/          [React | Node | MongoDB | AI | Razorpay]   │
+│  ├── DESC  :  Smart Farming Marketplace — AI-powered agriculture platform       │
+│  ├── LIVE  :  https://agri-farmio.netlify.app/                                  │
+│  └── TAGS  :  AgriTech  Weather-AI  Payments  Marketplace                       │
+│                                                                                 │
+│  drwxr-xr-x  ProjectSphere/        [React 19 | Cloudinary | MongoDB | AI]     │
+│  ├── DESC  :  AI-Powered Academic Management System for final year projects     │
+│  ├── LIVE  :  https://projectsphere-ai.netlify.app/                             │
+│  └── TAGS  :  EdTech  Dashboard  OTP-Auth  HOD-Workflow                         │
+│                                                                                 │
+│  drwxr-xr-x  IIC_Platform/         [React | Node | Cloudinary]                │
+│  ├── DESC  :  Innovation & Incubation Ecosystem for student entrepreneurship    │
+│  ├── LIVE  :  https://hiet-iic.netlify.app/home                                 │
+│  └── TAGS  :  Startup  Hackathons  Mentorship  Certificates                     │
+│                                                                                 │
+│  drwxr-xr-x  Crossroads_2026/      [React | Express | MongoDB]                │
+│  ├── DESC  :  Technical Fest Management Portal — event & admin system           │
+│  ├── LIVE  :  https://crossroads-hiet.netlify.app/                              │
+│  └── TAGS  :  EventMgmt  AdminPanel  Excel-Export  Nodemailer                   │
+│                                                                                 │
+│  drwxr-xr-x  Krishi_Seva_Kendra/   [React | Node | MongoDB | JWT]             │
+│  ├── DESC  :  Smart Rural Service Platform empowering rural communities         │
+│  ├── LIVE  :  https://aman-traders.netlify.app/                                 │
+│  └── TAGS  :  AgriTech  GovSchemes  RuralDev  FinancialSupport                  │
+│                                                                                 │
+│  >> 15+ Projects Built  |  All Production Deployed  |  100% Passion-Driven     │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 
-<img src="https://img.shields.io/badge/AI%20Engineer-00E5FF?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MERN%20Stack-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  root@amangupta:~$ cat ~/achievements.log                                       │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│  [2026-01] 🥇 Crossroads 2026 — Project Exhibition      >> 1st Place           │
+│             └── Project: Agri FarmIQ | Domain: Smart Agriculture               │
+│                                                                                 │
+│  [2025-12] 🥇 Scrolls'25 — National Paper Presentation  >> 1st Place           │
+│             └── AKGEC Ghaziabad | Domain: Computer Science & Engineering        │
+│                                                                                 │
+│  [2025-10] 🥈 Tech Fusion 2025 — Tech Think Tank        >> 2nd Place           │
+│             └── IPEM Ghaziabad | Innovative Problem Solving                     │
+│                                                                                 │
+│  [2025-08] 🥉 TechnoHack 3.0 — Innovation Ignite        >> 3rd Place           │
+│             └── INMANTEC Institutions | Creativity & Innovation                 │
+│                                                                                 │
+│  [ONGOING]  📜 Certs: Cloud Computing | Web Dev | AI | Data Analytics          │
+│  [ONGOING]  🤝 Open Source: Hacknovate 7.0 | TechnoHack | Scrolls | Crossroads │
+│                                                                                 │
+│  TOTAL WINS: 4  |  1st PLACE: 2  |  NATIONAL LEVEL: YES  |  HACKATHONS: 4+    │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  root@amangupta:~$ cat ~/learning_roadmap_2026.sh                               │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│  #!/bin/bash                                                                    │
+│  # 2026 Learning Queue                                                          │
+│                                                                                 │
+│  echo "Currently Leveling Up..."                                                │
+│                                                                                 │
+│  LEARNING=(                                                                     │
+│    "Advanced LLM Engineering & Prompt Optimization"                             │
+│    "Data Science & Applied Machine Learning"                                    │
+│    "System Design & Scalable Architectures"                                     │
+│    "DSA — LeetCode Grind 🔥"                                                   │
+│    "Cloud Deployment & DevOps Fundamentals"                                     │
+│    "Building Startup-Ready AI Products"                                         │
+│  )                                                                              │
+│                                                                                 │
+│  for topic in "${LEARNING[@]}"; do                                              │
+│    echo "  [ACTIVE] >> $topic"                                                  │
+│  done                                                                           │
+│                                                                                 │
+│  echo ""                                                                        │
+│  echo "  Philosophy: Learn → Build → Ship → Repeat"                            │
+│  echo "  Focus: Impact Over Impression"                                          │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 
-<img src="https://img.shields.io/badge/Always%20Learning-22C55E?style=for-the-badge&logo=bookstack&logoColor=white"/>
 
-</td>
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  root@amangupta:~$ ./contact.sh                                                 │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│  📬  Email     →  ag0567688@gmail.com                                           │
+│  💼  LinkedIn  →  linkedin.com/in/amangupta9454                                 │
+│  🐙  GitHub    →  github.com/amangupta9560                                      │
+│  🌐  Portfolio →  amangupta9.netlify.app                                        │
+│  🧩  LeetCode  →  leetcode.com/u/amangupta9454                                 │
+│                                                                                 │
+│  >> Open to: Collaborations | Research | Open Source | Internships              │
+│                                                                                 │
+│  root@amangupta:~$ █                                                            │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
 
-</tr>
-</table>
+---
 
 <div align="center">
 
-### 🛠️ Tech Universe
+## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgres,python,fastapi,tensorflow,pytorch,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,threejs"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,tensorflow,pytorch"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,linux,vscode,postman,figma,anaconda"/>
 
 </div>
 
@@ -91,803 +219,101 @@
 
 <div align="center">
 
-### 🎮 Coding Mode
-<img src="https://raw.githubusercontent.com/amangupta9560/amangupta9560/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
-<img src="https://raw.githubusercontent.com/amangupta9560/amangupta9560/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
-</div>
-
-
-<hr>
-
-
-<div align="center">
-
-<h2>🏆 Achievements</h2>
-
-<p>
-Recognitions from technical competitions, hackathons, research presentations, and innovation challenges.
-</p>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🥇 Scrolls'25</h3>
-
-<b>National Technical Paper Presentation Contest</b>
-
-AKGEC, Ghaziabad
-
-Position: <b>1st Place</b>
-
-Domain: Computer Science & Engineering
-
-Presented and defended a technical research paper at a national-level competition.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🥇 Crossroads 2026</h3>
-
-<b>Technical Project Exhibition</b>
-
-HIET, Ghaziabad
-
-Position: <b>1st Place</b>
-
-Project: <b>Agri FarmIQ</b>
-
-Recognized for innovation and practical impact in smart agriculture.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🥈 Tech Fusion 2025</h3>
-
-<b>Tech Think Tank Challenge</b>
-
-IPEM, Ghaziabad
-
-Position: <b>2nd Place</b>
-
-Awarded for innovative problem-solving and technical excellence.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🥉 TechnoHack 3.0</h3>
-
-<b>Innovation Ignite</b>
-
-INMANTEC Institutions
-
-Position: <b>3rd Place</b>
-
-Recognized for creativity and innovation among participating teams.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Competition_Wins-4-success?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/First_Place_Finishes-3-gold?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/National_Level-Presentation-blue?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Hackathons-Multiple-orange?style=flat-square"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h3>📜 Certificates & Participation</h3>
-
-Hacknovate 7.0 • Crossroads • TechnoHack 3.0 • Scrolls'25 • Tech Fusion
-
-</div>
-
-<hr>
-
-<section>
-
-<h2>🛠 Tech Stack</h2>
-
-<h3>Languages</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,c" />
-</p>
-
-<h3>Frontend</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,threejs,html,css" />
-</p>
-
-<h3>Backend</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-<img src="https://img.shields.io/badge/Gemini-AI-black?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai" />
-</p>
-
-<h3>Databases</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-<h3>Cloud & DevOps</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
-</p>
-
-<h3>Tools</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,anaconda,cursor,antigravity" />
-</p>
-
-</section>
-
-<hr>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Featured+Projects;💡+Building+Real+World+Solutions;🌍+MERN+Stack+%7C+AI+%7C+AgriTech+%7C+EdTech" />
-
-<br><br>
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<a href="https://agri-farmio.netlify.app/">
-<img src="https://res.cloudinary.com/dnmtainqq/image/upload/v1769520757/Screenshot_2026-01-27_190041_pgxwg6.png" width="100%">
-</a>
-
-<h3 align="center">🌾 AGRI Farmio</h3>
-
-<p align="center">
-<b>Smart Farming Marketplace</b>
-</p>
-
-<p align="center">
-Connecting farmers directly with consumers through AI-powered agriculture, weather intelligence, transparent pricing, and secure digital transactions.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI_Assistant-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Weather_Intelligence-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Price_Analytics-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Razorpay-Payments-purple?style=flat-square"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://agri-farmio.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
-</a>
-
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<a href="https://projectsphere-ai.netlify.app/">
-<img src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1781931773/Screenshot_2026-06-20_103240_dhxrxi.png" width="100%">
-</a>
-
-<h3 align="center">📚 ProjectSphere</h3>
-
-<p align="center">
-<b>AI-Powered Academic Management System</b>
-</p>
-
-<p align="center">
-Digitalizing the complete final year project lifecycle through approvals, mentorship, progress tracking, analytics, and collaboration.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Faculty_Dashboard-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/HOD_Workflow-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud_Uploads-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/OTP_Verification-purple?style=flat-square"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://projectsphere-ai.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
-</a>
-
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<a href="https://hiet-iic.netlify.app/home">
-<img src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1781931639/Screenshot_2026-06-20_103026_rnvi4u.png" width="100%">
-</a>
-
-<h3 align="center">💡 IIC Platform</h3>
-
-<p align="center">
-<b>Innovation & Incubation Ecosystem</b>
-</p>
-
-<p align="center">
-A centralized platform for startup ideas, mentorship, hackathons, certificates, innovation challenges, and student entrepreneurship.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Hackathons-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mentorship-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Certificates-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Innovation-purple?style=flat-square"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://hiet-iic.netlify.app/home">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
-</a>
-
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<a href="https://crossroads-hiet.netlify.app/">
-<img src="https://res.cloudinary.com/dnmtainqq/image/upload/v1769613340/Screenshot_2026-01-28_204216_sxitd1.png" width="100%">
-</a>
-
-<h3 align="center">🎓 Crossroads 2026</h3>
-
-<p align="center">
-<b>Technical Fest Management Portal</b>
-</p>
-
-<p align="center">
-A complete event registration and administration system designed to streamline technical fest operations and participant management.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Event_Management-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Admin_Dashboard-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Excel_Export-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nodemailer-purple?style=flat-square"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://crossroads-hiet.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
-</a>
-
-
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-<br>
-
-<a href="https://aman-traders.netlify.app/">
-<img src="https://res.cloudinary.com/dnmtainqq/image/upload/v1769517146/Screenshot_2026-01-27_175934_wtab5f.png" width="100%">
-</a>
-
-<h2 align="center">🌐 Krishi Seva Kendra</h2>
-
-<p align="center">
-<b>Smart Rural Service Platform</b>
-</p>
-
-<p align="center">
-Empowering rural communities through digital agriculture services, government schemes, CSC facilities, financial assistance, and educational resources.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Agriculture-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Government_Services-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Financial_Support-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Rural_Development-purple?style=flat-square"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://aman-traders.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
-</a>
-
-
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,100:7F5AF0"/>
-
-</div>
-<hr>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Developer%20Profile%20Highlights&fontSize=40&fontAlignY=40&color=0:00F7FF,100:7F5AF0&fontColor=ffffff"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Builder+%26+Problem+Solver;Building+Products+That+Create+Impact;Always+Learning+Always+Shipping+🚀"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🚀_Projects_Built-15+-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🏆_Achievements-Multiple-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/💻_Tech_Stack-MERN-00BFFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🤖_AI_Enthusiast-Active-7F5AF0?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<details open>
-<summary><b>🚀 Building Products, Not Just Projects</b></summary>
-
-<br>
-
-🔹 Creating scalable web applications that solve real-world challenges.
-
-🔹 Focused on Agriculture, Healthcare, Education, Innovation, and AI-driven platforms.
-
-🔹 Building systems that combine great UI, strong backend architecture, and practical impact.
-
-</details>
-
-<br>
-
-<details open>
-<summary><b>🌍 Domains I Love Building For</b></summary>
-
-<br>
-
-🌾 AgriTech Solutions
-
-🏥 Healthcare Platforms
-
-🎓 Education Technology
-
-💡 Startup & Innovation Ecosystems
-
-📊 Analytics Dashboards
-
-🤖 AI-Powered Applications
-
-</details>
-
-<br>
-
-<details open>
-<summary><b>⚡ What You'll Discover Here</b></summary>
-
-<br>
-
-📱 Production-Ready Full Stack Applications
-
-🔐 Authentication & Authorization Systems
-
-☁️ Cloud Integrations & Deployments
-
-📊 Data Visualization Dashboards
-
-💳 Payment Gateway Integrations
-
-📧 Automated Notification Systems
-
-🌐 Responsive User Experiences
-
-🤖 AI-Assisted Features & Automation
-
-</details>
-
-<br>
-
-<details open>
-<summary><b>🏆 Notable Highlights</b></summary>
-
-<br>
-
-🥇 Winner — Crossroads 2026 Project Exhibition
-
-🥇 National Technical Paper Presentation Competition
-
-🥈 Tech Fusion Ideathon
-
-🏁 Hackathon Finalist
-
-🚀 Multiple Live Production Deployments
-
-📈 Continuous Open Source Learning Journey
-
-</details>
-
-<br>
-
-<details open>
-<summary><b>🛠️ Current Focus Areas</b></summary>
-
-<br>
-
-🔥 Advanced MERN Stack Development
-
-🤖 Machine Learning & AI Applications
-
-📚 Data Structures & Algorithms
-
-⚙️ System Design Fundamentals
-
-☁️ Scalable Cloud Architectures
-
-🚀 Building Startup-Ready Products
-
-</details>
-
-<br>
-
-<br>
-
-<div align="center">
-
-<h3>💭 Developer Philosophy</h3>
-
-<i>
-"Technology becomes meaningful when it solves real problems, creates opportunities, and improves lives."
-</i>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,100:7F5AF0"/>
-
-</div>
-<hr>
-
-<div align="center">
-
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Learning+Roadmap+2026;Continuous+Growth+%26+Innovation;Learning+Never+Stops" />
-</h1>
-
-<p>
-Building expertise in <b>Artificial Intelligence</b>, <b>Data Science</b>,
-<b>Deployment & Scalability</b>, <b>Full Stack Development</b>, and
-<b>Problem Solving</b>.
-</p>
-
-<br><br>
-
-<img
-src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1784136616/ChatGPT_Image_Jul_15_2026_11_00_04_PM_warco2.png"
-alt="Learning Roadmap 2026"
-width="100%"
-/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=7B61FF&center=true&vCenter=true&width=900&lines=AI+%26+LLM+Engineering;Data+Science;Deployment+%26+Scalability;Full+Stack+Development;DSA+%26+Aptitude;Always+Learning" />
-
-<br><br>
-
-</div>
-<div align="center">
-
-<h1>🏆 Professional Achievements & Certifications</h1>
-
-<p>
-Recognitions, certifications, competitions, and professional growth milestones.
-</p>
-
-</div>
-
-<table width="100%">
-
-<tr>
-
-<td align="center" width="25%">
-
-<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
-
-<h1>🥇</h1>
-
-<h3>Crossroads 2026</h3>
-
-Project Exhibition Winner
-
-</div>
-
-</td>
-
-<td align="center" width="25%">
-
-<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
-
-<h1>📜</h1>
-
-<h3>Research Paper</h3>
-
-National Technical Competition Winner
-
-</div>
-
-</td>
-
-<td align="center" width="25%">
-
-<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
-
-<h1>🥈</h1>
-
-<h3>Tech Fusion</h3>
-
-Ideathon Runner Up
-
-</div>
-
-</td>
-
-<td align="center" width="25%">
-
-<div style="border-radius:16px;padding:20px;border:1px solid #30363d;">
-
-<h1>🏁</h1>
-
-<h3>Hackathon</h3>
-
-Innovation Finalist
-
-</div>
-
-</td>
-
-</tr>
-
-</table>
-
-<!-- yh certification vault wala section hai -->
-<div align="center">
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=00E7FF&center=true&vCenter=true&width=650&lines=Certification+Vault;Continuous+Learning;Always+Upskilling" />
-</h1>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### ☁️ Cloud Computing
-
-<img src="https://img.shields.io/badge/Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌐 Web Development
-
-<img src="https://img.shields.io/badge/Certified-2E7D32?style=for-the-badge&logo=html5&logoColor=white"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🤖 Artificial Intelligence
-
-<img src="https://img.shields.io/badge/Certified-7B61FF?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</td>
-
-<td align="center">
-
-### 📊 Data Analytics
-
-<img src="https://img.shields.io/badge/Certified-FF9800?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=2&section=header"/>
-
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1500&color=7B61FF&center=true&vCenter=true&width=650&lines=Developer+Philosophy" />
-</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00E7FF&center=true&vCenter=true&width=800&lines=Learn+Relentlessly;Build+Consistently;Innovate+Fearlessly;Create+Technology+That+Matters;Impact+Over+Impression" />
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B61FF&height=120&section=footer&text=Build%20•%20Learn%20•%20Innovate%20•%20Repeat&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
-
-</div>
-<hr>
-<!-- yha ke niche tk ki code shi hai aur kam kr rhi hai, yh streak aur uske niche ka code hai -->
-<div align="center">
+## 📊 GitHub Dashboard
 
 <img
   width="49%"
-  height="195px"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amangupta9560&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d0d1a"
-  alt="Aman GitHub Stats"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amangupta9560&show_icons=true&count_private=true&hide_border=true&title_color=00E7FF&icon_color=7B61FF&text_color=c9d1d9&bg_color=0d0d1a"
 />
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta9560&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats" />
+<img
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta9560&hide_border=true&background=0d0d1a&stroke=00E7FF&ring=7B61FF&fire=f97316&currStreakLabel=00E7FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff"
+/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amangupta9560&show_icons=true&theme=tokyonight&hide_border=true" />
+<br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amangupta9560&layout=compact&theme=tokyonight&hide_border=true" />
-&nbsp;&nbsp;
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta9560&theme=github-compact" width="96%">
-</p>
+<img
+  width="49%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amangupta9560&layout=compact&hide_border=true&title_color=00E7FF&text_color=c9d1d9&bg_color=0d0d1a"
+/>
+<img
+  width="49%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amangupta9560&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
+---
 
-<hr>
-<!-- Connect With Me -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=🔗+Connect+With+Me" alt="Typing SVG" />
-</h2>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:ag0567688@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+## 🏆 GitHub Trophies
 
-  <a href="https://www.linkedin.com/in/amangupta9454/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=amangupta9560&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
-  <a href="https://amangupta9.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+</div>
 
-  <a href="https://github.com/amangupta9560" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+---
 
-  <a href="https://leetcode.com/u/amangupta9454/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amangupta9560&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/amangupta9560?label=Followers&style=for-the-badge&logo=github" />
-</p>
+## 📈 Contribution Graph
 
-<hr>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta9560&bg_color=0d0d1a&color=00E7FF&line=7B61FF&point=f97316&area=true&hide_border=true" width="98%"/>
 
-<section align="center">
+</div>
 
-<h2>🐍 Contribution Activity</h2>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amangupta9560/amangupta9560/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<div align="center">
 
-</section>
-<p align="center"><b>✨ Thanks for visiting — let's build something awesome together! ✨</b></p>
-<hr>
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/amangupta9560/amangupta9560/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔗 Connect With Me
+
+<a href="mailto:ag0567688@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/amangupta9454/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://amangupta9.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=00E7FF"/>
+</a>
+<a href="https://github.com/amangupta9560" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/amangupta9454/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amangupta9560&label=Profile+Views&color=00E7FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/amangupta9560?label=Followers&style=for-the-badge&logo=github&color=7B61FF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,50:7B61FF,100:00E7FF&height=120&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Innovate%20%E2%80%A2%20Repeat&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+
+</div>
